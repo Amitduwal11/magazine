@@ -22,7 +22,7 @@
 
 
     <!-- Animate.css -->
-    <link href="assets/animate.css/animate.min.css" rel="stylesheet">
+    <link href="assets/css/animate.min.css" rel="stylesheet">
   </head>
 
   <body class="login">
