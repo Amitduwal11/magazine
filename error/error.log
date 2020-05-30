@@ -1,8 +1,5 @@
-May 24, 2020 12:05:02 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:05:06 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:48 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:51 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:52 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:52 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:52 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
-May 24, 2020 12:06:53 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.users' doesn't exist
+May 30, 2020 02:57:00 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
+May 30, 2020 07:15:57 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
+May 30, 2020 08:15:50 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.advertisements' doesn't exist
+May 30, 2020 08:15:53 pm : (addData) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'khwopa.followuss' doesn't exist
+May 30, 2020 08:21:15 pm : (run Query database) : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@magazine.com' for key 'email'
